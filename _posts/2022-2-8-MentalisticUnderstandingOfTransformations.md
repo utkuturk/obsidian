@@ -131,7 +131,7 @@ _Pickering & Barry 1991_
 
 - to which child did the teacher give **a long speech about the importance of honesty** _____?
 - they saw that people formed relation with the verb.
-- but these are ditransitive, with which people can form give $\_\_$ a long speech ...
+- but these are ditransitive, with which people can form give _____ a long speech ...
 - Or, we can say that we already know what \\(give\\) does, and \\(give\\)'s arguments. So we can form heuristic arguments when we see the verb. 
 
 Timing evidence as theoretical arbitration works when theories make timing predictions. 
