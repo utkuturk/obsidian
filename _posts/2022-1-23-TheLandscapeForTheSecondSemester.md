@@ -59,7 +59,7 @@ what about discourse?
 
 ### colin's obsession
 
-levels of analysis $\neq$ mechanisms $\neq$ tasks
+levels of analysis \neq mechanisms \neq tasks
 
 when your goal/task is different, it will affect the rest of the pyramid as well. but it will also depend on how specialized the cognitive system.
 

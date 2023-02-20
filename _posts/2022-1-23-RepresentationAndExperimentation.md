@@ -53,8 +53,8 @@ Passives share structure with locatives. In order for passives to be similar to 
 4. \* Bob put the book on the shelf and Sue did  \[<sub>VP</sub> ~~put the book~~\] on the table
 
 Obviously, @Bock1989's findings are in clash. How 2 and 3 are in priming relation? 
-	2 has a ternary VP: \[_{VP}\~V\~NP\~PP\]
-	3 has a nested structure: \[_{VP}\~\[_{VP}\~V\~NP\]\~PP\]
+- 2 has a ternary VP: \[<sub>VP</sub> V NP PP\]
+3 has a nested structure: \[<sub>VP</sub> \[<sub>VP</sub> V NP\] PP\]
 
 How this priming works then? Maybe like a reduction of repeated embedded VPs
 
