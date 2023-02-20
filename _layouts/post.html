@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="post-contents">
+	<h2 style="text-align:center;margin-top:50px;margin-bottom:5%;">{{ page.title }}</h2>
+	<h4 style="text-align:center;margin-top:0px;margin-bottom:0px;">{{ page.author }}</h4>
+	<h4 style="text-align:center;margin-top:0px;margin-bottom:50px;">{{ page.date | date_to_string }}</h4>
+	<div class="post">
+		{{ content }}
+	</div>
+</div>

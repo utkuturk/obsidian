@@ -1,0 +1,11 @@
+name: utku turk - obsidian
+author: utku turk
+email: utkuturk@umd.edu
+description: my obsidian notes, just looking for a way to put them up online
+url: "utkuturk.github.io"
+baseurl: "/obsidian"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge
