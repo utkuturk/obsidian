@@ -30,13 +30,13 @@ Let's start with effects at verb position. English fronts wh-words. How is the w
 What if we try to test steps of derivations? But it is difficult to directly use grammatical rules. 
 
 ### Basic Parsing Systems
-$\cdot$ represents when the rule formation 
+\\(\cdot \\) represents when the rule formation 
 
-Bottom up = Det N $\cdot$ 
+Bottom up = Det N \\(\cdot \\)
 
-Left corner = Det $\cdot$ N
+Left corner = Det \\(\cdot \\) N
 
-Top down = $\cdot$ Det N
+Top down = \\(\cdot \\) Det N
 
 Arnold read some books
 
@@ -53,11 +53,11 @@ Strict bottom up parsing does not explain incrementality
 
 <u>Left Corner</u>
 
-NP(Arnold) > we go up See S, and form S(NP $\_$)
+NP(Arnold) > we go up See S, and form S(NP \\(\_ \\) )
 
-Then we see read we can form S(NP VP(V $\_$))
+Then we see read we can form S(NP VP(V \\(\_ \\) )
 
-Then we see some, we can form S(NP VP(V NP(Det $\_$)))
+Then we see some, we can form S(NP VP(V NP(Det \\(\_ \\) )
 
 Finally we see books, now we do have the full thing. S(NP VP(V NP(Det N)))
 
@@ -69,7 +69,7 @@ Left corner parser allows us to hypothesize orphan structures, it also allow us 
 
 If we take transformations literally, it is going to be really hard to use it as a identification device. 
 
-a = X$_1$ wh-NP X$_2$
+a = X_1 wh-NP X$_2$
 
 b = wh-NP X$_1$ 0 X$_2$
 
