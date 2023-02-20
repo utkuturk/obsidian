@@ -69,9 +69,9 @@ Left corner parser allows us to hypothesize orphan structures, it also allow us 
 
 If we take transformations literally, it is going to be really hard to use it as a identification device. 
 
-a = X_1 wh-NP X$_2$
+a = X\\(_1\\) wh-NP X\\(_2\\)
 
-b = wh-NP X$_1$ 0 X$_2$
+b = wh-NP X\\(_1\\) 0 X\\(_2\\)
 
 it is easy to derive b from a, but really hard to derive a from b.
 
@@ -129,10 +129,10 @@ they decide on "boy" faster in positions after from or meet than they decide for
 
 _Pickering & Barry 1991_
 
-- to which child did the teacher give **a long speech about the importance of honesty** $\_\_\_$?
+- to which child did the teacher give **a long speech about the importance of honesty** _____?
 - they saw that people formed relation with the verb.
 - but these are ditransitive, with which people can form give $\_\_$ a long speech ...
-- Or, we can say that we already know what $give$ does, and $give$'s arguments. So we can form heuristic arguments when we see the verb. 
+- Or, we can say that we already know what \\(give\\) does, and \\(give\\)'s arguments. So we can form heuristic arguments when we see the verb. 
 
 Timing evidence as theoretical arbitration works when theories make timing predictions. 
 
