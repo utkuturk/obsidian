@@ -7,8 +7,11 @@ title: Learning Wh Gaps
 # Learning Wh Gaps
 
 [[Classnotes MOC]]|[[Psycholing Classnotes]]|[[Learning Wh-Gaps, Utku Turk]]
+
 **Date**:: 2022-02-06
+
 **Class**:: Psycholinguistics II
+
 **Tags**:: #umd #classnotes  #umd/psylx
 
 Were the results surprising?

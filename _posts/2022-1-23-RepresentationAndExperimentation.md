@@ -7,20 +7,26 @@ title: Representations and Experimentation
 # Representations and Experimentation
 
 [[Classnotes MOC]]|[[Psycholing Classnotes]]|[[Representations and Experimentation, Utku Turk]]|
+
 **Date**:: 2022-01-23
+
 **Class**:: Psycholinguistics II
+
 **Tags**:: #umd #classnotes  #umd/psylx
 
 - assumption about "shared representation" and repetition
 
 ### findings
 @Bock1986: passives primes passives
+
 @BockLoebel1990:
 	- Finding 1: locatives primes passives
 	- Finding 2: metric styles does not matter
+
 @Bock1989: locative PPs and Dative PPs share structure
 
 Priming doesnt require thematic relations to overlap
+
 Passives share structure with locatives. In order for passives to be similar to locatives so that they prime locatives, there should not be a gap/trace.
 
 **Then what is the similarity, which proc similarity?**

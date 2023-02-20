@@ -7,8 +7,11 @@ title: The Landscape for the second semester
 # The Landscape for the second semester
 
 [[Classnotes MOC]]|[[Psycholing Classnotes]]
+
 **Date**:: 2022-01-23
+
 **Class**:: Psycholinguistics II
+
 **Tags**:: #umd #classnotes  #umd/psylx
 
 ## Central Constraint

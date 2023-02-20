@@ -7,8 +7,11 @@ title: Learning Islands
 # Learning Islands
 
 [[Classnotes MOC]]|[[Psycholing Classnotes]]|[[Learning Island Constraints, Utku Turk]]
+
 **Date**:: 2022-02-13
+
 **Class**:: Psycholinguistics II
+
 **Tags**:: #umd #classnotes  #umd/psylx
 
 - this is one of the many ways that you can think about how people learn islands.

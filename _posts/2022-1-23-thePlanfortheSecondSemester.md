@@ -5,8 +5,11 @@ title: The plan for the second semester
 ---
 
 [[Classnotes MOC]]|[[Psycholing Classnotes]]
+
 **Date**:: 2022-01-23
+
 **Class**:: Psycholinguistics II
+
 **Tags**:: #umd #classnotes  #umd/psylx
 
 # The plan for the second semester
