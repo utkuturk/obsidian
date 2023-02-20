@@ -2,7 +2,7 @@ name: utku turk - obsidian
 author: utku turk
 email: utkuturk@umd.edu
 description: my obsidian notes, just looking for a way to put them up online
-url: "utkuturk.github.io"
+url: "www.utkuturk.com"
 baseurl: "/obsidian"
 markdown: kramdown
 highlighter: rouge
